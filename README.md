@@ -1,5 +1,7 @@
 # trello-burndown
 
+**NO LONGER MAINTAINED**
+
 Generate a burndown chart from trello cards.
 
 ## Features
